@@ -117,19 +117,19 @@ Carries data over network connections
 
 Contains 8 color-coded wires (4 twisted pairs)
 
-###Common Types of CAT Cables:
+### Common Types of CAT Cables:
 
-Category	Speed	Max Distance
+^ Category	Speed	Max Distance
 
-CAT5	100 Mbps	100 meters
+^ CAT5	100 Mbps	100 meters
 
-CAT5e	1 Gbps	100 meters
+^ CAT5e	1 Gbps	100 meters
 
-CAT6	1–10 Gbps	55–100 meters
+^ CAT6	1–10 Gbps	55–100 meters
 
-CAT6a	10 Gbps	100 meters
+^ CAT6a	10 Gbps	100 meters
 
-CAT5e and CAT6 are most commonly used in homes and offices today.
+^ CAT5e and CAT6 are most commonly used in homes and offices today.
 
 ### Crimping Tool
 
