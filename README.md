@@ -144,6 +144,8 @@ function: ^ Strips outer cable jacket
 ^Crimps connector securely onto cable
 
 
+![image](https://github.com/user-attachments/assets/e88eb19a-c390-4681-a837-87ff20edae1c)
+
 
 
 
