@@ -90,6 +90,58 @@ When the OS has problems (like crashes, errors, or slow performance), OS repair 
 ^ Cloud Storage – Google Drive, OneDrive, Dropbox.
 
 ^ Internal Partition – Separate from system drive (not safest).
+ 
+ # RJ45 Connector
+## RJ45 stands for Registered Jack 45
+
+It is an 8-pin connector used to connect Ethernet cables to networking devices
+Commonly used in LAN (Local Area Network) setups.
+
+## Plugs into:
+^ Routers 
+^ Switches
+^ Network Interface Cards (NICs)
+
+ ### Key Features:
+ 
+8 metal pins inside (for 8 wires)
+
+Works with CAT5/CAT6 cables
+
+Looks like a wider telephone jack
+
+### CAT Cable (Ethernet Cable)
+
+CAT = Category (e.g., CAT5, CAT6)
+Carries data over network connections
+
+Contains 8 color-coded wires (4 twisted pairs)
+
+###Common Types of CAT Cables:
+
+Category	Speed	Max Distance
+
+CAT5	100 Mbps	100 meters
+
+CAT5e	1 Gbps	100 meters
+
+CAT6	1–10 Gbps	55–100 meters
+
+CAT6a	10 Gbps	100 meters
+
+CAT5e and CAT6 are most commonly used in homes and offices today.
+
+### Crimping Tool
+
+Used to attach RJ45 connectors to CAT cables
+
+It presses the pins inside the connector into the wires
+
+function: ^ Strips outer cable jacket 
+
+^ Arranges and trims wire.
+
+^Crimps connector securely onto cable
 
 
 
